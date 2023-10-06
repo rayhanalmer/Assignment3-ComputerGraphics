@@ -1,9 +1,13 @@
 # Assignment3-ComputerGraphics
 
-* Drawing a 2-D square by combining two triangles
-* Drawing a 3-D rotation cube
+Name    : Rayhan Almer Kusumah  
+NRP     : 5025211115  
+Class   : Computer Graphics (A)  
 
 ## 2D-SQUARE
+
+Drawing a 2-D square by combining two triangles.  
+Preview: [2-D Square Preview](https://rayhanalmer.github.io/Assignment3-ComputerGraphics/2D-Square.html "square")  
 
 The square was created by positioning two separate 
 triangles at specific coordinates in a way that they 
@@ -62,6 +66,9 @@ function draw() {
 ```
 
 ## 3D-CUBE
+
+Drawing a 3-D rotation cube.  
+Preview: [3-D Cube Preview](https://rayhanalmer.github.io/Assignment3-ComputerGraphics/3D-Cube.html "cube")  
 
 The cube was made  by modifying the initial sample code 
 and then animated to visualize each angle by dragging on 
