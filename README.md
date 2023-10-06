@@ -11,9 +11,12 @@ Preview: [2-D Square Preview](https://rayhanalmer.github.io/Assignment3-Computer
 
 The square was created by positioning two separate 
 triangles at specific coordinates in a way that they 
-combine to form a unified square shape. Below is a code 
-snippet illustrating how this drawing and positioning were 
-accomplished :
+combine to form a unified square shape. 
+
+|![triangle1](https://github.com/rayhanalmer/Assignment3-ComputerGraphics/blob/main/assets/triangle-1.png)|![triangle2](https://github.com/rayhanalmer/Assignment3-ComputerGraphics/blob/main/assets/triangle-2.png)|![square](https://github.com/rayhanalmer/Assignment3-ComputerGraphics/blob/main/assets/square.png)|
+|-------------------|-------------------|--------------------|
+
+Below is a code snippet illustrating how this drawing and positioning were accomplished:  
 
 ``` javascript
 function draw() { 
@@ -70,10 +73,12 @@ function draw() {
 Drawing a 3-D rotation cube.  
 Preview: [3-D Cube Preview](https://rayhanalmer.github.io/Assignment3-ComputerGraphics/3D-Cube.html "cube")  
 
-The cube was made  by modifying the initial sample code 
-and then animated to visualize each angle by dragging on 
-your mouse. Here are snippets of the code that depict the 
-drawing and arrangement process :
+The cube was made  by modifying the initial sample code and then animated to visualize each angle by dragging on your mouse. 
+
+
+![cube](https://github.com/rayhanalmer/Assignment3-ComputerGraphics/blob/main/assets/cube-rotation.gif)
+
+Here are snippets of the code that depict the drawing and arrangement process :
 
 ### Drawing
 
